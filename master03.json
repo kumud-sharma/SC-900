@@ -1,0 +1,31 @@
+[{
+  "Name": "Module 4: Describe the capabilities of Microsoft compliance solutions",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/prod",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_11_explore_service_trust_portal.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_12_explore_compliance_mgr.md",
+      "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_13_explore_senstivity_labels.md",
+      "Order": 3
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_14_explore_insider_risk_mgt.md",
+      "Order": 4
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_15_explore_core_ediscovery.md",
+      "Order": 5
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_16_explore_azure_policy.md",
+      "Order": 6
+    }
+     ]
+}]
