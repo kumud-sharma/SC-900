@@ -1,0 +1,23 @@
+[{
+  "Name": "Module2: Explore Azure Active Directory",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/prod",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_01_explore_azure_ad.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_02_explore_azure_sspr.md",
+      "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_03_explore_cond_access.md",
+      "Order": 3
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_04_explore_pim.md",
+      "Order": 4
+    }
+     ]
+}]
