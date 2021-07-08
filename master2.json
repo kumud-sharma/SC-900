@@ -1,0 +1,31 @@
+[{
+  "Name": "Module3: Describe the capabilities of Microsoft security solutions",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/prod",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_05_explore_nsg.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_06_explore_asc.md",
+      "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_07_explore_sentinel.md",
+      "Order": 3
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_08_explore_mcas.md",
+      "Order": 4
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_09_explore_m365_defender_portal.md",
+      "Order": 5
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/prod/Instructions/Labs/LAB_10_explore_intune.md",
+      "Order": 6
+    }
+     ]
+}]
